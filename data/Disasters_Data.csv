@@ -1,0 +1,11 @@
+id,type,lat,long,date,description
+1,Storm,29.641744,-82.32887,2025-06-05,Tornado reported near location 1
+2,Fire,29.647941,-82.327151,2025-06-03,Storm reported near location 2
+3,Storm,29.658948,-82.325917,2025-06-06,Flood reported near location 3
+4,Tornado,29.646637,-82.3318,2025-06-04,Flood reported near location 4
+5,Fire,29.644253,-82.321739,2025-06-03,Tornado reported near location 5
+6,Fire,29.644184,-82.32897,2025-06-04,Tornado reported near location 6
+7,Tornado,29.647565,-82.327987,2025-06-11,Storm reported near location 7
+8,Storm,29.64747,-82.319633,2025-06-04,Tornado reported near location 8
+9,Storm,29.659886,-82.315509,2025-06-09,Fire reported near location 9
+10,Fire,29.649933,-82.321071,2025-06-07,Tornado reported near location 10

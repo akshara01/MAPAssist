@@ -1,0 +1,11 @@
+name,lat,long,skills,contact,available
+Alice Johnson,29.661418,-82.322367,"Medical, First Aid",alice@example.com,no
+Bob Johnson,29.64983,-82.33099,"Food Distribution, Medical",bob@example.com,yes
+Carol Johnson,29.656729,-82.325058,"Transportation, Food Distribution",carol@example.com,yes
+David Johnson,29.659872,-82.332667,"Food Distribution, Counseling",david@example.com,yes
+Eva Johnson,29.655736,-82.320998,"Food Distribution, First Aid",eva@example.com,yes
+Frank Johnson,29.654785,-82.325322,"Counseling, Transportation",frank@example.com,yes
+Grace Johnson,29.659332,-82.325341,"Transportation, Food Distribution",grace@example.com,yes
+Hannah Johnson,29.658752,-82.327263,"Transportation, First Aid",hannah@example.com,no
+Ian Johnson,29.65692,-82.334035,"Food Distribution, First Aid",ian@example.com,no
+Jane Johnson,29.64609,-82.321633,"Transportation, Counseling",jane@example.com,no

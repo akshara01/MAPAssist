@@ -1,0 +1,11 @@
+type,lat,long,description,open_hours
+Shelter,29.649994,-82.331577,Shelter center near block 1,9am - 6pm
+Shelter,29.657805,-82.332808,Food center near block 2,10am - 4pm
+Food,29.658786,-82.327471,Medical center near block 3,24/7
+Shelter,29.644974,-82.323616,Shelter center near block 4,10am - 4pm
+Medical,29.642544,-82.331391,Food center near block 5,9am - 6pm
+Medical,29.643939,-82.33188,Medical center near block 6,9am - 6pm
+Shelter,29.64576,-82.31862,Shelter center near block 7,9am - 6pm
+Food,29.658343,-82.331701,Food center near block 8,10am - 4pm
+Food,29.641698,-82.320594,Medical center near block 9,9am - 6pm
+Shelter,29.651991,-82.318011,Shelter center near block 10,9am - 6pm
