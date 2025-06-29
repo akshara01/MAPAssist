@@ -1,8 +1,10 @@
 # 🌍 MAPAssist - Disaster Help Assistant
 
-![MAPAssist Banner](assets/demo.png)
-
 > MAPAssist is an AI-powered web app that supports people in distress during a disaster. Using location detection and severity classification, it connects users with community volunteers, mental health support, or emergency response as needed.
+
+![MAPAssist Banner](assets/demo.png)
+[🔗 Live App](https://mapassist.streamlit.app/)
+
 
 ## 🚀 Features
 
